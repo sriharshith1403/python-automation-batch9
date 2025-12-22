@@ -1,4 +1,5 @@
 """""
+def buitin(x):
 x=range(5)
 for n in x:
     print(n)
@@ -13,8 +14,18 @@ y=type(myList)#type of the list
 txt="     banana     "
 x=txt.strip() #returns "banana"
 print(x)
-"""
 
-#str
+#str 
 y=str(3.5)
 print(y)
+
+
+#builtin module ---> math, random
+import random
+print(random.randint(1,10)) #random number between 1 to 10
+
+#3rd party module --> requests, numpy, pandas, matplotlib
+import requests
+requests.get("http://www.google.com")
+r.status_code
+"""
