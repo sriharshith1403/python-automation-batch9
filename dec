@@ -1,0 +1,21 @@
+#Creates a function named calculator
+#func means any function passed to it
+#Here, func will receive the add function
+def calculator(func):
+#Creates an inner function
+#wrapper will run instead of add
+    def wrapper(a, b):
+#Calls the original function (add)  
+        result = func(a, b)
+        print("Addition:", result)
+        return result
+#This replaces the original add function
+    return wrapper
+
+#This line is shortcut syntax for: add = calculator(add)
+@calculator
+def add(a, b):
+    return a + b
+
+
+add(5,10)
