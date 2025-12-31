@@ -1,0 +1,13 @@
+<patients>
+    <patient>
+        <medical_issue>Diabetes</medical_issue>
+        <medical_issue>Heart Attack</medical_issue>
+        <medical_issue>lung cancer</medical_issue>
+
+
+    </patient>
+    <patient>
+        <medical_issue>Asthma</medical_issue>
+    </patient>
+</patients>
+
