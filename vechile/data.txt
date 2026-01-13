@@ -1,0 +1,19 @@
+car_name=Toyota Corolla
+mileage=18
+fuel_consumption=6.5
+fuel_type=Petrol
+engine_capacity=1798
+---
+
+car_name=Hyundai i20
+mileage=20
+fuel_consumption=5.8
+fuel_type=Diesel
+engine_capacity=1396
+---
+
+car_name=Honda City
+mileage=17
+fuel_consumption=6.2
+fuel_type=Petrol
+engine_capacity=1498

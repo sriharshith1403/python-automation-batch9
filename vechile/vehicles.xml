@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Vehicles>
+  <Vehicle>
+    <car_name>Toyota Corolla</car_name>
+    <mileage>18</mileage>
+    <fuel_consumption>6.5</fuel_consumption>
+    <fuel_type>Petrol</fuel_type>
+    <engine_capacity>1798</engine_capacity>
+  </Vehicle>
+  <Vehicle>
+    <car_name>Hyundai i20</car_name>
+    <mileage>20</mileage>
+    <fuel_consumption>5.8</fuel_consumption>
+    <fuel_type>Diesel</fuel_type>
+    <engine_capacity>1396</engine_capacity>
+  </Vehicle>
+  <Vehicle>
+    <car_name>Honda City</car_name>
+    <mileage>17</mileage>
+    <fuel_consumption>6.2</fuel_consumption>
+    <fuel_type>Petrol</fuel_type>
+    <engine_capacity>1498</engine_capacity>
+  </Vehicle>
+</Vehicles>
